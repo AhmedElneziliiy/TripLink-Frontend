@@ -1,0 +1,25 @@
+# Angular build output
+dist/
+dist-server/
+
+# Node modules
+node_modules/
+
+# Angular cache
+.angular/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.md~
+*.bak
+
+# Logs
+*.log
+npm-debug.log*
